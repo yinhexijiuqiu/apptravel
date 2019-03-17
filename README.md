@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project-travel2
 
 > lvyou
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# apptravel
+vue.js-app
+>>>>>>> 9a34e82976690e6c1144d6ff92bde40967353b9f
