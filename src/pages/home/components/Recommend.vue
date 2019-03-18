@@ -2,7 +2,7 @@
   <div>
     <div class="title">热销推荐</div>
     <ul>
-      <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
+      <li class="item border-bottom" v-for="item of list" :key="item.id">
         <img class="item-img" :src="item.imgUrl"/>
         <div class="item-info">
           <p class="item-title">{{item.title}}</p>
@@ -17,25 +17,8 @@
 <script>
   export default {
     name: 'HomeRecommend',
-    data() {
-      return {
-        recommendList: [{
-          id: '0001',
-          imgUrl: 'https://imgs.qunarzz.com/sight/p0/1901/8c/8c1d317bc954ce06a3.water.jpg_200x200_94fd133d.jpg',
-          title: '宋城千古情',
-          desc: '宋城千古情宋城千古情'
-        }, {
-          id: '0002',
-          imgUrl: 'https://imgs.qunarzz.com/sight/p0/1901/8c/8c1d317bc954ce06a3.water.jpg_200x200_94fd133d.jpg',
-          title: '宋城千古情',
-          desc: '宋城千古情宋城千古情'
-        }, {
-          id: '0003',
-          imgUrl: 'https://imgs.qunarzz.com/sight/p0/1901/8c/8c1d317bc954ce06a3.water.jpg_200x200_94fd133d.jpg',
-          title: '宋城千古情',
-          desc: '宋城千古情宋城千古情'
-        }]
-      };
+    props: {
+      list: Array
     }
   };
 </script>
