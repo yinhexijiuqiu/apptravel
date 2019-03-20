@@ -24,5 +24,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # apptravel
 vue.js-app
 >>>>>>> 9a34e82976690e6c1144d6ff92bde40967353b9f
+
 项目描述
 ========
