@@ -25,7 +25,7 @@ vue.js-app
 --------
 vue2.0 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
 ------
-#前端部分介绍
+# 前端部分介绍
 ● Vue2.0 前端页面的展示<br>
 ● js和rem，解决移动端适配<br>
 ● ES6 Js语言的标准<br>
@@ -36,9 +36,9 @@ vue2.0 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
 ● localStorage 城市选择页面信息存储 <br>
 ● keep-alive 优化网页性能<br>
 ● 加入基础动画<br>
-#后端部分<br>
+# 后端部分
 ● mock.js后台数据托管<br>
-#待完成功能<br>
+# 待完成功能
 ● 景点以及当地美食等详情页面<br>
 ● 首页上拉下拉刷新<br>
 
