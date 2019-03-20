@@ -57,7 +57,7 @@
     .wrapper
       height: 0;
       width: 100%;
-      padding-bottom: 74.13%;
+      padding-bottom: 100%;
       background: #FFFFFF;
       .gallary-img
         width: 100%;
