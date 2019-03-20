@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# project-travel2
-
-> lvyou
-
 ## Build Setup
 
 ``` bash
@@ -18,12 +13,9 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
 # apptravel
 vue.js-app
->>>>>>> 9a34e82976690e6c1144d6ff92bde40967353b9f
 
 项目描述
 ========
@@ -32,5 +24,5 @@ vue.js-app
 vue2.0 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
 ------
 前端部分介绍
-------
+----
 ●
