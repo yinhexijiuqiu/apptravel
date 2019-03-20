@@ -25,26 +25,18 @@ vue.js-app
 --------
 vue2.0 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
 ------
-前端部分介绍
+#前端部分介绍
 ----
 ● Vue2.0 前端页面的展示<br>
 ● js和rem，解决移动端适配<br>
-● ES6 Js语言的标准
--
-● Better-Scroll 实现移动端滚动，让滚动更加协调
--
-● Vuex 管理公共数据
--
-● Axios 异步数据的请求
--
-● Stylus css预编译
--
-● localStorage 城市选择页面信息存储 
--
-● keep-alive 优化网页性能
--
-● 引入基础动画
--
+● ES6 Js语言的标准<br>
+● Better-Scroll 实现移动端滚动，让滚动更加协调<br>
+● Vuex 管理公共数据<br>
+● Axios 异步数据的请求<br>
+● Stylus css预编译<br>
+● localStorage 城市选择页面信息存储 <br>
+● keep-alive 优化网页性能<br>
+● 加入基础动画<br>
 后端部分
 ----
 ● mock.js后台数据托管
