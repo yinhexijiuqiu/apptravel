@@ -7,6 +7,7 @@ import VueAwesomeSwiper from 'vue-awesome-swiper';
 import 'babel-polyfill';
 import store from './store';
 import fastClick from 'fastclick';
+import './config/rem';
 
 import 'styles/reset.css';
 import 'styles/border.css';
