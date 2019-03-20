@@ -27,8 +27,7 @@ vue2.0 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
 ------
 前端部分介绍
 ----
-● Vue2.0 前端页面的展示
--
+● Vue2.0 前端页面的展示<br>
 ● js和rem，解决移动端适配
 -
 ● ES6 Js语言的标准
