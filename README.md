@@ -27,3 +27,10 @@ vue.js-app
 
 项目描述
 ========
+技术栈
+--------
+vue2.0 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
+------
+前端部分介绍
+------
+●
