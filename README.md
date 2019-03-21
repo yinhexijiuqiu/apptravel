@@ -23,7 +23,7 @@ vue.js-app
 ---
 技术栈
 --------
-vue2.5 + axios + Vuex + ES6 + stylus + mock + flex + iconfont
+vue2.5 +  Vuex + vue-router + axios + ES6 + stylus + mock  + iconfont
 ------
 # 前端部分介绍
 ● Vue2.0 前端页面的展示<br>
